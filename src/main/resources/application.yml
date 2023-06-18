@@ -1,0 +1,10 @@
+cloud:
+  aws:
+    region:
+      static: ap-south-1
+      auto: false
+    credentials:
+      access-key: "AKIATJQIHKSFHEFHIEGX"
+      secret-key: "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"
+    end-point:
+      uri: "https://sqs.us-east-1.amazonaws.com/226576782474/java"
